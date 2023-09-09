@@ -29,7 +29,8 @@ npm run dev
     "dev": "nodemon ./src/index.js"
   }
 
-
+# Abrir o Insomnia
+Eu utilizei o aplicativo insomnia para validar os códigos, mas você pode usar outro de sua escolha
 ```
 
 ### Para saber mais sobre minha jornada de aprendizado em Backend
