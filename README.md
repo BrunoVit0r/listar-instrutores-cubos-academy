@@ -30,8 +30,31 @@ npm run dev
   }
 
 # Abrir o Insomnia
-Eu utilizei o aplicativo insomnia para validar os códigos, mas você pode usar outro de sua escolha
+
+Eu utilizei o aplicativo insomnia para validar os códigos, mas você pode usar outro de sua preferência.
+
 ```
+
+## Listar os Instrutores
+
+<p align="center">
+   <img src="src/assets/listar-instrutores.png">
+</p>
+
+
+## Cadastrar um Instrutor
+
+<p align="center">
+   <img src="src/assets/cadastrar-instrutor.png">
+</p>
+
+
+## Obter um Instrutor
+
+<p align="center">
+   <img src="src/assets/obter-um-instrutor.png">
+</p>
+
 
 ### Para saber mais sobre minha jornada de aprendizado em Backend
 
