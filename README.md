@@ -14,18 +14,27 @@ Esta API faz o Cadastro de um Instrutor, Lista todos os Instrutores Cadastrados 
 
 ## Como executar o Projeto
 
-#### Clonar Repositório
-https://github.com/BrunoVit0r/listar-instrutores-cubos-academy
+```bash
+# Clonar Repositório
+git clone https://github.com/BrunoVit0r/listar-instrutores-cubos-academy
 
-Inicializar um projeto com NPM
+# Entrar na pasta do projeto backend
+cd listar-instrutores-cubos-academy
 
-## Se necessário configurar o arquvio JSON. 
+#Inicializar um projeto com NPM
+npm run dev
+
+# Se necessário configurar o arquvio JSON. 
  "scripts": {
     "dev": "nodemon ./src/index.js"
   }
 
-## Como Executar no Terminal
-npm run dev
+
+```
+
+## Para saber mais sobre minha jornada de aprendizado em Backend
+
+### Bruno Vitor
 
 https://www.linkedin.com/in/bruno-vitor/
 
