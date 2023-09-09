@@ -32,10 +32,9 @@ npm run dev
 
 ```
 
-## Para saber mais sobre minha jornada de aprendizado em Backend
+### Para saber mais sobre minha jornada de aprendizado em Backend
 
-### Bruno Vitor
-
-https://www.linkedin.com/in/bruno-vitor/
+#### Bruno Vitor
+#### https://www.linkedin.com/in/bruno-vitor/
 
 
